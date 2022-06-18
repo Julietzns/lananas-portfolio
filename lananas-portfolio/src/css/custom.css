@@ -4,6 +4,8 @@
  * work well for content-centric websites.
  */
 
+ @import url("./navbar.scss");
+
 /* You can override the default Infima variables here. */
 
 @import url("./variables.scss");
