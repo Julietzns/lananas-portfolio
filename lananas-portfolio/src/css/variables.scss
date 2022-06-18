@@ -1,0 +1,143 @@
+/* NOTE VALUE INFO to change color var
+    --ifm-color-scheme: light;
+
+    --ifm-dark-value: 10%;
+    --ifm-darker-value: 15%;
+    --ifm-darkest-value: 30%;
+
+    --ifm-light-value: 15%;
+    --ifm-lighter-value: 30%;
+    --ifm-lightest-value: 50%;
+
+    --ifm-contrast-background-value: 90%;
+    --ifm-contrast-foreground-value: 70%;
+
+    --ifm-contrast-background-dark-value: 70%;
+    --ifm-contrast-foreground-dark-value: 90%; */
+
+:root {
+
+    /* Base colors
+        https://infima.dev/docs/utilities/colors
+        https://coolors.co/000000-ffffff-805d93-e07931-b3433b
+    */
+
+    --ifm-color-primary: #168f83;
+    --ifm-color-secondary: #fdc75a;
+    --ifm-color-success: #1dbaaa;
+    --ifm-color-info: #d06163;
+    --ifm-color-warning: #E07931;
+    --ifm-color-danger: #B3433B;
+
+    /* Fonts var */
+    --ifm-font-family-base: "comfortaa", cursive;
+    --ifm-font-family: "montserrat", sans-serif;
+    --ifm-font-family-monospace: "jetbrainsmono", monospace;
+    --ifm-code-font-size: 95%; 
+
+    /* Container var */
+    --ifm-container-width: 100%; 
+    --ifm-container-max-width: 950px;
+
+    /* Navbar var */
+    --ifm-navbar-shadow: none;
+    --ifm-button-shadow: 1px 3px 4px var(--ifm-color-secondary-darkest);
+
+    /* Primary */
+    --ifm-color-primary-lightest: #1dbaaa;
+    --ifm-color-primary-lighter: #19a497;
+    --ifm-color-primary-light: #189d90	;
+    --ifm-color-primary-dark: #168f83;
+    --ifm-color-primary-darker: #137a6f;
+    --ifm-color-primary-darkest: #0f645c;
+    --ifm-color-primary-contrast-background: var(--ifm-color-primary-lightest);
+    --ifm-color-primary-contrast-foreground: var(--ifm-color-secondary);
+
+    /* Secondary */
+    --ifm-color-secondary-lightest: #feeac0;
+    --ifm-color-secondary-lighter: #fed88d;
+    --ifm-color-secondary-light: #fdd37c;
+    --ifm-color-secondary-dark: #fdbb38;
+    --ifm-color-secondary-darker: #fcb627;
+    --ifm-color-secondary-darkest: #eda003;
+    --ifm-color-secondary-contrast-background: var(--ifm-color-gray);
+    --ifm-color-secondary-contrast-foreground: var(--ifm-color-secondary);
+
+    /* Success */
+    --ifm-color-success-lightest: #38e0cf;
+    --ifm-color-success-lighter: #21d6c4;
+    --ifm-color-success-light: #20cdbb;
+    --ifm-color-success-dark: #1aa799;
+    --ifm-color-success-darker: #199e91;
+    --ifm-color-success-darkest: #148277;
+    --ifm-color-success-contrast-background: var(--ifm-color-success);
+    --ifm-color-success-contrast-foreground: var(--ifm-color-secondary);
+
+    /* Info */
+    --ifm-color-info-lightest: #e5a8a9;
+    --ifm-color-info-lighter: #da8486;
+    --ifm-color-info-light: #d7797a;
+    --ifm-color-info-dark: #c9494c;
+    --ifm-color-info-darker: #c63e40;
+    --ifm-color-info-darkest: #a53133;
+    --ifm-color-info-contrast-background: var(--ifm-color-info);
+    --ifm-color-info-contrast-foreground: var(--ifm-color-secondary);
+
+    /* Warning */
+    --ifm-color-warning-lightest: #e79860;
+    --ifm-color-warning-lighter: #e59055;
+    --ifm-color-warning-light: #e48849;
+    --ifm-color-warning-dark: #d66b20;
+    --ifm-color-warning-darker: #ca651e;
+    --ifm-color-warning-darkest: #a65319;
+    --ifm-color-warning-contrast-background: var(--ifm-color-warning);
+    --ifm-color-warning-contrast-foreground: var(--ifm-color-secondary);
+
+    /* Danger */
+    --ifm-color-danger-lightest: #c65951;
+    --ifm-color-danger-lighter: #c4544b;
+    --ifm-color-danger-light: #c14d44;
+    --ifm-color-danger-dark: #a13c35;
+    --ifm-color-danger-darker: #983932;
+    --ifm-color-danger-darkest: #7d2f29;
+    --ifm-color-danger-contrast-background: var(--ifm-color-danger);
+    --ifm-color-danger-contrast-foreground: var(--ifm-color-secondary);
+
+    /* White - black - gray */
+    --ifm-color-white: #fff;
+    --ifm-color-black: #000;
+    --ifm-color-gray-0: var(--ifm-color-white);
+    --ifm-color-gray-100: #f5f6f7;
+    --ifm-color-gray-200: #ebedf0;
+    --ifm-color-gray-300: #dadde1;
+    --ifm-color-gray-400: #ccd0d5;
+    --ifm-color-gray-500: #bec3c9;
+    --ifm-color-gray-600: #8d949e;
+    --ifm-color-gray-700: #606770;
+    --ifm-color-gray-800: #444950;
+    --ifm-color-gray-900: #1c1e21;
+    --ifm-color-gray-1000: var(--ifm-color-black);
+    --ifm-color-emphasis-0: var(--ifm-color-gray-0);
+    --ifm-color-emphasis-100: var(--ifm-color-gray-100);
+    --ifm-color-emphasis-200: var(--ifm-color-gray-200);
+    --ifm-color-emphasis-300: var(--ifm-color-gray-300);
+    --ifm-color-emphasis-400: var(--ifm-color-gray-400);
+    --ifm-color-emphasis-500: var(--ifm-color-gray-500);
+    --ifm-color-emphasis-600: var(--ifm-color-gray-600);
+    --ifm-color-emphasis-700: var(--ifm-color-gray-700);
+    --ifm-color-emphasis-800: var(--ifm-color-gray-800);
+    --ifm-color-emphasis-900: var(--ifm-color-gray-900);
+    --ifm-color-emphasis-1000: var(--ifm-color-gray-1000);
+    --ifm-color-content: var(--ifm-color-emphasis-900);
+    --ifm-color-content-inverse: var(--ifm-color-emphasis-0);
+    --ifm-color-content-secondary: #525860;
+    --ifm-background-color: transparent;
+    --ifm-background-surface-color: var(--ifm-color-content-inverse);
+    --ifm-global-border-width: 1px;
+    --ifm-global-radius: 0.4rem;
+    --ifm-hover-overlay: rgba(0, 0, 0, 0.05);
+    --ifm-font-color-base: var(--ifm-color-content);
+    --ifm-font-color-base-inverse: var(--ifm-color-content-inverse);
+    --ifm-font-color-secondary: var(--ifm-color-content-secondary);
+    --ifm-link-color : var(--ifm-color-warning);
+}
