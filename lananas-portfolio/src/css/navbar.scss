@@ -1,3 +1,16 @@
 .navbar {
-   
+   background-color: var(--ifm-color-secondary);
+   width: auto;
+   height: 113px;
+   left: 0px;
+   top: 0px;
+}
+
+.navbar__items--right {
+    display: block;
+    justify-content: flex-end;
+}
+
+.nav_icons path {
+    margin-bottom: 40px;
 }
