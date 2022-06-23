@@ -11,9 +11,21 @@
 }
 
 .icons {
-    margin: 10px;
+    margin: 6px;
+    margin-top: 30px;
+    vertical-align: center;
+    width: 30px;
+    height: auto;
+    
+    
 }
 
+.icons:hover {
+    transition: 3;
+    transform: translate(0px, -6px);
+    color: aqua;
+
+}
 /* feuille */
 .elem-ban {
     display: flex;
@@ -21,7 +33,6 @@
 }
 
 .plant-ban {
-    width: 50;
-    height: auto;
-
+    margin-top: -20px;
+    margin-left: -20px;
 }

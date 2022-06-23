@@ -9,11 +9,6 @@ export default function Navbar() {
       <NavbarLayout>
         <LogoNav />
       </NavbarLayout>
-      <div className="display-nav">
-        <h1>Hello</h1>
-        <h2>salut</h2>
-        <h2>salut</h2>
-      </div>
     </>
   );
 }
