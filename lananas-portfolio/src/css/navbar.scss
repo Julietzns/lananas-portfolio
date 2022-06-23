@@ -6,11 +6,22 @@
    top: 0px;
 }
 
-.navbar__items--right {
-    display: block;
-    justify-content: flex-end;
+.logos-icons {
+    display: flex;
 }
 
-.nav_icons path {
-    margin-bottom: 40px;
+.icons {
+    margin: 10px;
+}
+
+/* feuille */
+.elem-ban {
+    display: flex;
+    justify-content: space-between;
+}
+
+.plant-ban {
+    width: 50;
+    height: auto;
+
 }
