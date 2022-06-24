@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import { FaBehance, FaGithub, FaLinkedin } from "react-icons/fa";
 // import feuille from "lananas-portfolio/static/img/feuilles.png";
 import plant from "/static/img/feuilles.png";
-import headVecto from "/static/img/tete_vecto.png"
+import headVecto from "/static/img/tete_vecto.png";
 
 export default function LogoNav() {
   return (

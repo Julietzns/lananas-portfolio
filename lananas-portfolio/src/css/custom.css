@@ -11,6 +11,7 @@
 @import url("./variables.scss");
 @import url("./dark_theme.scss");
 @import url("fonts.scss");
+@import url("header.scss");
 
 :root {
   --ifm-color-primary: #2e8555;
