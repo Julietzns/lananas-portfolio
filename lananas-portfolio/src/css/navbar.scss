@@ -16,16 +16,14 @@
     vertical-align: center;
     width: 30px;
     height: auto;
-    
-    
 }
 
 .icons:hover {
-    transition: 3;
+    transition: 6ms;
     transform: translate(0px, -6px);
-    color: aqua;
-
+    transform: translate(0,-6px);
 }
+
 /* feuille */
 .elem-ban {
     display: flex;
