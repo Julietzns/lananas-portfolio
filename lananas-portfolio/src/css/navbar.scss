@@ -1,0 +1,36 @@
+.navbar {
+   background-color: var(--ifm-color-secondary);
+   width: auto;
+   height: 113px;
+   left: 0px;
+   top: 0px;
+}
+
+.logos-icons {
+    display: flex;
+}
+
+.icons {
+    margin: 6px;
+    margin-top: 30px;
+    vertical-align: center;
+    width: 30px;
+    height: auto;
+}
+
+.icons:hover {
+    transition: 6ms;
+    transform: translate(0px, -6px);
+    transform: translate(0,-6px);
+}
+
+/* feuille */
+.elem-ban {
+    display: flex;
+    justify-content: space-between;
+}
+
+.plant-ban {
+    margin-top: -20px;
+    margin-left: -20px;
+}
