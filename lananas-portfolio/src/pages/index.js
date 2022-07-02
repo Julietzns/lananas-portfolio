@@ -5,6 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import SmilingJu from "/static/img/smiling_ju.png";
+// import SmilingJu from "lananas-portfolio/static/img/smiling_ju.png";
 // import header from "../components/";
 
 
