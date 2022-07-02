@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklananas_portfolio=self.webpackChunklananas_portfolio||[]).push([[7541],{4371:function(a){a.exports=JSON.parse('{"label":"docusaurus","permalink":"/lananas-portfolio/blog/tags/docusaurus","allTagsPath":"/lananas-portfolio/blog/tags","count":4}')}}]);
