@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklananas_portfolio=self.webpackChunklananas_portfolio||[]).push([[4212],{8114:function(a){a.exports=JSON.parse('{"label":"facebook","permalink":"/lananas-portfolio/blog/tags/facebook","allTagsPath":"/lananas-portfolio/blog/tags","count":1}')}}]);

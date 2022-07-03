@@ -1,0 +1,247 @@
+{
+  "/lananas-portfolio/__docusaurus/debug-fe7": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-docusaurus-debugc-96-303"
+    }
+  },
+  "/lananas-portfolio/__docusaurus/debug/config-35e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-docusaurus-debugc-96-303"
+    }
+  },
+  "/lananas-portfolio/__docusaurus/debug/content-233": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-docusaurus-debugc-96-303"
+    },
+    "allContent": "allContent---lananas-portfolio-docusaurus-debug-content-246-81c"
+  },
+  "/lananas-portfolio/__docusaurus/debug/globalData-c9b": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-docusaurus-debugc-96-303"
+    }
+  },
+  "/lananas-portfolio/__docusaurus/debug/metadata-536": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-docusaurus-debugc-96-303"
+    }
+  },
+  "/lananas-portfolio/__docusaurus/debug/registry-811": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-docusaurus-debugc-96-303"
+    }
+  },
+  "/lananas-portfolio/__docusaurus/debug/routes-bc0": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-docusaurus-debugc-96-303"
+    }
+  },
+  "/lananas-portfolio/blog-0d0": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "sidebar": "sidebar---lananas-portfolio-blog-814-1c5",
+    "items": [
+      {
+        "content": "content---lananas-portfolio-blog-766-297"
+      },
+      {
+        "content": "content---lananas-portfolio-blogf-4-f-7bc"
+      },
+      {
+        "content": "content---lananas-portfolio-blog-871-f44"
+      },
+      {
+        "content": "content---lananas-portfolio-blog-925-544"
+      }
+    ],
+    "metadata": "metadata---lananas-portfolio-blog-03-a-8dc"
+  },
+  "/lananas-portfolio/blog/archive-7f1": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "archive": "archive---lananas-portfolio-blog-archivec-2-d-975"
+  },
+  "/lananas-portfolio/blog/first-blog-post-d55": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "sidebar": "sidebar---lananas-portfolio-blog-814-1c5",
+    "content": "content---lananas-portfolio-blog-first-blog-poste-27-1bd"
+  },
+  "/lananas-portfolio/blog/long-blog-post-a7a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "sidebar": "sidebar---lananas-portfolio-blog-814-1c5",
+    "content": "content---lananas-portfolio-blog-long-blog-post-736-a6c"
+  },
+  "/lananas-portfolio/blog/mdx-blog-post-087": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "sidebar": "sidebar---lananas-portfolio-blog-814-1c5",
+    "content": "content---lananas-portfolio-blog-mdx-blog-post-593-ad6"
+  },
+  "/lananas-portfolio/blog/tags-a0e": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "sidebar": "sidebar---lananas-portfolio-blog-814-1c5",
+    "tags": "tags---lananas-portfolio-blog-tagsa-30-a07"
+  },
+  "/lananas-portfolio/blog/tags/docusaurus-e45": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "sidebar": "sidebar---lananas-portfolio-blog-814-1c5",
+    "items": [
+      {
+        "content": "content---lananas-portfolio-blog-766-297"
+      },
+      {
+        "content": "content---lananas-portfolio-blogf-4-f-7bc"
+      },
+      {
+        "content": "content---lananas-portfolio-blog-871-f44"
+      },
+      {
+        "content": "content---lananas-portfolio-blog-925-544"
+      }
+    ],
+    "tag": "tag---lananas-portfolio-blog-tags-docusaurus-0-d-4-075",
+    "listMetadata": "listMetadata---lananas-portfolio-blog-tags-docusaurusb-5-e-e42"
+  },
+  "/lananas-portfolio/blog/tags/facebook-06e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "sidebar": "sidebar---lananas-portfolio-blog-814-1c5",
+    "items": [
+      {
+        "content": "content---lananas-portfolio-blog-766-297"
+      }
+    ],
+    "tag": "tag---lananas-portfolio-blog-tags-facebook-359-95c",
+    "listMetadata": "listMetadata---lananas-portfolio-blog-tags-facebook-97-f-9a4"
+  },
+  "/lananas-portfolio/blog/tags/hello-656": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "sidebar": "sidebar---lananas-portfolio-blog-814-1c5",
+    "items": [
+      {
+        "content": "content---lananas-portfolio-blog-766-297"
+      },
+      {
+        "content": "content---lananas-portfolio-blog-871-f44"
+      }
+    ],
+    "tag": "tag---lananas-portfolio-blog-tags-hellod-21-374",
+    "listMetadata": "listMetadata---lananas-portfolio-blog-tags-hello-9-be-ca5"
+  },
+  "/lananas-portfolio/blog/tags/hola-122": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "sidebar": "sidebar---lananas-portfolio-blog-814-1c5",
+    "items": [
+      {
+        "content": "content---lananas-portfolio-blog-925-544"
+      }
+    ],
+    "tag": "tag---lananas-portfolio-blog-tags-holafc-6-34e",
+    "listMetadata": "listMetadata---lananas-portfolio-blog-tags-hola-073-c3a"
+  },
+  "/lananas-portfolio/blog/welcome-86a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-blog-3-a-3-334"
+    },
+    "sidebar": "sidebar---lananas-portfolio-blog-814-1c5",
+    "content": "content---lananas-portfolio-blog-welcomed-9-f-229"
+  },
+  "/lananas-portfolio/markdown-page-910": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-markdown-pageee-4-19a"
+    },
+    "content": "content---lananas-portfolio-markdown-page-393-773"
+  },
+  "/lananas-portfolio/docs-ace": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-docs-37-b-692"
+    },
+    "versionMetadata": "versionMetadata---lananas-portfolio-docs-935-15d"
+  },
+  "/lananas-portfolio/docs/category/tutorial---basics-962": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---lananas-portfolio-docs-category-tutorial-basics-437-8ac"
+  },
+  "/lananas-portfolio/docs/category/tutorial---extras-459": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---lananas-portfolio-docs-category-tutorial-extrasb-97-60e"
+  },
+  "/lananas-portfolio/docs/intro-834": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lananas-portfolio-docs-intro-0-e-3-0a3"
+  },
+  "/lananas-portfolio/docs/tutorial-basics/congratulations-6ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lananas-portfolio-docs-tutorial-basics-congratulations-822-cb8"
+  },
+  "/lananas-portfolio/docs/tutorial-basics/create-a-blog-post-888": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lananas-portfolio-docs-tutorial-basics-create-a-blog-post-533-e46"
+  },
+  "/lananas-portfolio/docs/tutorial-basics/create-a-document-1ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lananas-portfolio-docs-tutorial-basics-create-a-document-1-e-4-bcb"
+  },
+  "/lananas-portfolio/docs/tutorial-basics/create-a-page-fc0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lananas-portfolio-docs-tutorial-basics-create-a-page-5-c-8-d99"
+  },
+  "/lananas-portfolio/docs/tutorial-basics/deploy-your-site-1b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lananas-portfolio-docs-tutorial-basics-deploy-your-sitef-55-77f"
+  },
+  "/lananas-portfolio/docs/tutorial-basics/markdown-features-185": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lananas-portfolio-docs-tutorial-basics-markdown-features-18-c-589"
+  },
+  "/lananas-portfolio/docs/tutorial-extras/manage-docs-versions-2e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lananas-portfolio-docs-tutorial-extras-manage-docs-versionsdff-338"
+  },
+  "/lananas-portfolio/docs/tutorial-extras/translate-your-site-427": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lananas-portfolio-docs-tutorial-extras-translate-your-sitee-44-2ca"
+  },
+  "/lananas-portfolio/-611": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---lananas-portfolio-markdown-pageee-4-19a"
+    },
+    "config": "config---lananas-portfolio-5-e-9-c47"
+  }
+}

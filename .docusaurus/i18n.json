@@ -1,0 +1,15 @@
+{
+  "defaultLocale": "fr",
+  "locales": [
+    "fr"
+  ],
+  "currentLocale": "fr",
+  "localeConfigs": {
+    "fr": {
+      "label": "Français",
+      "direction": "ltr",
+      "htmlLang": "fr",
+      "calendar": "gregory"
+    }
+  }
+}

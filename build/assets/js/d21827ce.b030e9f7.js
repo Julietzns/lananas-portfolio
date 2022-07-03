@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklananas_portfolio=self.webpackChunklananas_portfolio||[]).push([[8798],{3270:function(a){a.exports=JSON.parse('{"label":"hello","permalink":"/lananas-portfolio/blog/tags/hello","allTagsPath":"/lananas-portfolio/blog/tags","count":2}')}}]);
