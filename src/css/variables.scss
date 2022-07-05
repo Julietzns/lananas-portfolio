@@ -22,7 +22,7 @@
         https://coolors.co/000000-ffffff-805d93-e07931-b3433b
     */
 
-    --ifm-color-primary: #168f83;
+    --ifm-color-primary: #168F83;
     --ifm-color-secondary: #fdc75a;
     --ifm-color-success: #1dbaaa;
     --ifm-color-info: #d06163;
@@ -30,9 +30,8 @@
     --ifm-color-danger: #B3433B;
 
     /* Fonts var */
-    --ifm-font-family-base: "comfortaa", cursive;
-    --ifm-font-family: "montserrat", sans-serif;
-    --ifm-font-family-monospace: "jetbrainsmono", monospace;
+    --ifm-font-roboto-black: "roboto-black", sans-serif;
+    --ifm-font-roboto-regular: "roboto-regular", sans-serif;
     --ifm-code-font-size: 95%; 
 
     /* Container var */
@@ -54,7 +53,7 @@
     --ifm-color-primary-contrast-foreground: var(--ifm-color-secondary);
 
     /* Secondary */
-    --ifm-color-secondary-lightest: #feeac0;
+    --ifm-color-secondary-lightest: #FFF5E2;
     --ifm-color-secondary-lighter: #fed88d;
     --ifm-color-secondary-light: #fdd37c;
     --ifm-color-secondary-dark: #fdbb38;

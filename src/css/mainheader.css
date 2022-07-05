@@ -1,0 +1,37 @@
+.hero--primary {
+    background-color: var(--ifm-color-secondary-lightest);
+}
+
+.container {
+    display: flex;
+}
+
+.title-h1 {
+    font-family: var(--ifm-font-roboto-black);
+    background: linear-gradient(261.64deg, #1BB7A7 1.5%, #DA488E 61.36%, #168F83 96.49%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    font-size: 4em;
+    width: 100%;
+}
+
+h1 {
+
+
+
+}
+
+.block-right {
+    margin-left: 30%;
+}
+
+.img-smiling-ju {
+    width: 50em;
+    height: auto;
+}
+
+.name-lastname {
+
+}
